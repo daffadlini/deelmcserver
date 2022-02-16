@@ -1,0 +1,49 @@
+[07:34:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:34:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:34:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:34:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:34:08] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[07:34:08] [Server thread/INFO]: Loading properties
+[07:34:08] [Server thread/INFO]: Default game type: SURVIVAL
+[07:34:08] [Server thread/INFO]: Generating keypair
+[07:34:08] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[07:34:08] [Server thread/INFO]: Using default channel type
+[07:34:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:34:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:34:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:34:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:34:10] [Server thread/INFO]: Preparing level "world"
+[07:34:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:34:22] [Server thread/INFO]: Loaded 6 recipes
+[07:34:23] [Server thread/INFO]: Loaded 811 advancements
+[07:34:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:34:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:34:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:34:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:34:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:34:25] [Server thread/INFO]: Preparing spawn area: 36%
+[07:34:28] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[07:34:28] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[07:34:28] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[07:34:28] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[07:34:28] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[07:34:28] [Server thread/INFO]: Preparing spawn area: 83%
+[07:34:28] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[07:34:29] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[07:34:29] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[07:34:30] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[07:34:30] [Server thread/INFO]: Time elapsed: 7312 ms
+[07:34:30] [Server thread/INFO]: Done (20.462s)! For help, type "help"
+[08:11:11] [Server thread/INFO]: Stopping the server
+[08:11:11] [Server thread/INFO]: Stopping server
+[08:11:11] [Server thread/INFO]: Saving players
+[08:11:11] [Server thread/INFO]: Saving worlds
+[08:11:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[08:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:11:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[08:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:11:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[08:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:11:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
